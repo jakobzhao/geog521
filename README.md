@@ -14,7 +14,7 @@ Open to graduate students and advanced undergraduates from diverse disciplinesâ€
 ## :calendar: Weekly Schedule
 
 <!-- - Visit the reading material of each week from [**a shared folder at UW Google Drive**](https://drive.google.com/drive/u/1/folders/1F1rVljPvChxc5DlJK3dzCuXXW34vvMIv). -->
-- Read all the required papers of the week by the weekly meetings.
+- Read all the papers of the week prior to the weekly meetings.
 
 ### Week 1: Preparation
 
@@ -62,8 +62,6 @@ In this week, we will focus on the foundation of Critical GIS. We will read a fe
 
 **Hosts:** *TBD*
 
-**Keywords:** Technology and Power; CyberGIS, Web 3.0 and Blockchain
-
 **Practical Exercise 1:** [Cloud-based project management using GitHub](02_cyber)
 
 <details>
@@ -82,7 +80,7 @@ In this week, we will focus on the foundation of Critical GIS. We will read a fe
 6. Li, Z., & Ning, H. (2023). Autonomous GIS: The next-generation AI-powered GIS. *International Journal of Digital Earth*, *16*(2), 4668â€“4686. https://doi.org/10.1080/17538947.2023.217
 
 </details>
-<br/>
+
 
 ### Week 5: Bots, Web Crawler and Autonomy
 
