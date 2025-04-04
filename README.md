@@ -54,7 +54,7 @@ Each student is required to prepare a short **statement of intent** describing y
 
 </details>
 
-### Week 4: Models
+### Week 4: System
 
 **Hosts:** *TBD*
 
@@ -78,7 +78,7 @@ Each student is required to prepare a short **statement of intent** describing y
 </details>
 
 
-### Week 5: Bots
+### Week 5: Bot
 
 **Hosts:** *TBD*
 
