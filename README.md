@@ -55,7 +55,7 @@ In this week, we will focus on the foundation of Critical GIS. We will read a fe
 
 </details>
 
-### Week 4: GIS Models
+### Week 4: Models
 
 **Hosts:** *TBD*
 
