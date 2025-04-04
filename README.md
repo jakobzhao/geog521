@@ -1,10 +1,8 @@
 # GEOG521 Research Seminar: Critical GIS
 
-
 - **Instructor:** Bo Zhao, zhaobo@uw.edu
 - **Meetings:**  Mondays 2:30 to 5:20 PM at SMI 409
 - **Office Hour**: By appointment or request a zoom meeting via https://t.ly/kpj_t
-
 
 <img src="res/cover-2023-2.png" align="right" tooltip="The cover image was made using a generative phrase 'a digital earth that is also a human brain.' by MidJourney on April 3, 2023." width="35%" target="_blank" />  This research seminar explores Critical GIS, a field that interrogates the social, political, and epistemological dimensions of geospatial technologies. Through theoretical debates and hands-on projects, students will examine how GIS functions both as a tool of control and as a medium for resistance, empowerment, and social justice. Topics include participatory mapping, counter-cartography, surveillance, digital inequality, and the politics of spatial data. The course also introduces emerging tools such as GeoAI, machine learning for spatial analysis, and geospatial storytelling.
 
