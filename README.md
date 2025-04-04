@@ -42,8 +42,6 @@ In this week, we will focus on the foundation of Critical GIS. We will read a fe
 
 ### Week 3: Methods and Practices
 
-In this week, we will focus on the methods and practices of Critical GIS. We will read a few papers that discuss the mixed-methods approach in GIS. The first paper is from *Sarah Elwood (2009)*, which is a classic paper that discusses the mixed-methods approach in GIS. The second paper is from *Sui and DeLyser (2011)*, which discusses the hybrid geographies and volunteered geographic information (VGI). The third paper is from *Knigge and Cope (2006)*, which discusses the grounded visualization method. The last two papers are from *Tate and Hogrebe (2011)* and *Madden and Ross (2009)*, which discuss the use of GIS in civic dialogue and human rights.
-
 <details>
   <summary><b>Readings</b></summary>
 
@@ -229,7 +227,7 @@ Each student presents the writing project during the last class meeting (06/2). 
 
 **:teacher: Seminar leadership:** You will take at least two turns facilitating our seminar exercise and discussion with a few of your classmates. You will work with one or more others (depending on the enrollment) on this, so you are not responsible for the entire session yourself. Please work together to prepare some activities and guiding questions that will inspire and structure our discussion of the material. The instructor is happy to help you to prepare the practical exercise walk-through before the meeting class.
 
-**:trophy: Practical exercise:** You need to get familiar with the practical exercise instruction before the class meeting in order to better reflect upon the theoretical concepts. We will walk through each practical exercise in class, and you will submit the deliverables to GitHub several days before the class meeting (you will have two weeks for your Week 3&4’s exercise deliverable). **As a requirement, you need to submit two lab deliverables. One is Lab 1, and the other is a lab of your interest.**
+**:trophy: Practical exercise:** You need to get familiar with the practical exercise instruction before the class meeting in order to better reflect upon the theoretical concepts. We will walk through each practical exercise in class, and you will submit the deliverables to GitHub several days before the class meeting. **As a requirement, you need to submit two lab deliverables. One is Lab 1, and the other is a lab of your interest.**
 
 **:woman_technologist: Participation in seminar discussion:** Complete all assigned readings and get familiar with the practical exercise instructions before class meetings, and participating in critical discussions of those readings.
 
