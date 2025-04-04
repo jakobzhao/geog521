@@ -222,7 +222,7 @@ Each student presents the writing project during the last class meeting (06/2). 
 - Use the practical exercise to express more than how you “feel” about the text or problem. Whether you liked the text or not is relevant but should not be the central focus of your think piece.
 - Make connections between the assigned text and the course content and above all, explore your own ideas and thoughts about the assigned text; after all, that is the point of the assignment.
 
-Please craft your think piece to the [**GitHub issues page**](https://github.com/jakobzhao/geog595/issues) two days before the meeting – so your colleagues leading discussion can draw on your ideas in planning activities for our class session.
+Please craft your think piece to the [**GitHub issues page**](https://github.com/jakobzhao/geog521/issues) two days before the meeting – so your colleagues leading discussion can draw on your ideas in planning activities for our class session.
 
 **:open_book: Writing project:** During the quarter, you will complete a larger writing project that engages with the seminar material and course themes, along with additional readings that you bring into conversation with the assigned course readings. You are aiming for 15-20 pages coalescing around ideas and readings from this quarter – you can take up and extend one of the themes from our weekly structure or develop a new one relevant to your own work and thinking. Writing projects is due no later than the end of **Week 10**.
 
