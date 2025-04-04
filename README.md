@@ -142,8 +142,6 @@ In this week, we will focus on the foundation of Critical GIS. We will read a fe
 
 </details>
 
-<br/>
-
 ### Week 8: GeoAI
 
 **Hosts:** *TBD*
@@ -163,10 +161,7 @@ In this week, we will focus on the foundation of Critical GIS. We will read a fe
 
 5. Gillespie, T. (2024). Generative AI and the politics of visibility. *Big Data & Society*, *11*(2), 20539517241252131. https://doi.org/10.1177/20539517241252131
 
-
 </details>
-
-<br/>
 
 ### Week 9: Virtual Reality
 
@@ -186,9 +181,6 @@ In this week, we will focus on the foundation of Critical GIS. We will read a fe
 4. Pykett, J. (2018). Geography and neuroscience: Critical engagements with geography's “neural turn”. *Transactions of the Institute of British Geographers*, *43*(2), 154–169. https://doi.org/10.1111/tran.12193
 
 </details>
-
-<br/>
-
 
 ### Week 10: Summary, Presentation, and Writing Project
 
