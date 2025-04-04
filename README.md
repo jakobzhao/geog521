@@ -20,11 +20,8 @@ Open to graduate students and advanced undergraduates from diverse disciplines�
 
 Each student is required to prepare a short **statement of intent** describing your final writing project. Each student is highly encouraged to plan this writing project to advance progress their own work, such as qualifying exam essay, draft of journal article, side project, etc. Please send the statement of intent to the instructor via Email zhaobo@uw.edu by **`04/04`**. In the meantime, the instructor will revise the syllabus according to the interests of the participants.
 
-### Week 2: Foundation
-
-In this week, we will get familiar with the theoretical framework Humanistic GIS, its origin in postphenomenology and its relevance to the ongoing research focus on digital geographies. By this week, each student can build a better understanding of how to use GIS in their scientific or humanities research.
-
-**Keywords:** Humanistic GIS, Digital Geographies, and Postphenomenology
+### Week 2: Foundation, Origin, and Evolution
+In this week, we will focus on the foundation of Critical GIS. We will read a few classic papers to understand the origin and evolution of Critical GIS. The first paper is from *Evelyn Sheppard (1995)*, which is one of the earliest papers that introduced the concept of Critical GIS. The second paper is from *Noel Schuurman (2000)*, which is a literature review on the critiques of GIS in the 1990s. The third paper is from *Sarah Elwood (2022)*, which is a recent review on the evolution of Critical GIS. The last two papers are from *Ash et al (2018)* and *Bo Zhao (2022)*, which are more recent papers that discuss the relevance of Critical GIS to digital geographies and humanistic GIS.
 
 <details>
   <summary><b>Readings</b></summary>
@@ -39,23 +36,20 @@ In this week, we will get familiar with the theoretical framework Humanistic GIS
 
 5. Zhao, B. (2022). Humanistic GIS: Towards a research agenda. *Annals of the American Association of Geographers*. Advance online publication. https://doi.org/10.1080/24694452.2022.2050111
 
-
 </details>
 <br/>
 
 
 ### Week 3: Methods and Practices
 
-In this week, we will get familiar with the theoretical framework Humanistic GIS, its origin in postphenomenology and its relevance to the ongoing research focus on digital geographies. By this week, each student can build a better understanding of how to use GIS in their scientific or humanities research.
-
-**Keywords:** Humanistic GIS, Digital Geographies, and Postphenomenology
+In this week, we will focus on the methods and practices of Critical GIS. We will read a few papers that discuss the mixed-methods approach in GIS. The first paper is from *Sarah Elwood (2009)*, which is a classic paper that discusses the mixed-methods approach in GIS. The second paper is from *Sui and DeLyser (2011)*, which discusses the hybrid geographies and volunteered geographic information (VGI). The third paper is from *Knigge and Cope (2006)*, which discusses the grounded visualization method. The last two papers are from *Tate and Hogrebe (2011)* and *Madden and Ross (2009)*, which discuss the use of GIS in civic dialogue and human rights.
 
 <details>
   <summary><b>Readings</b></summary>
 
 1. Elwood, S. (2009). Mixed methods: Thinking, doing, and asking in multiple ways. In D. DeLyser, M. Crang, L. McDowell, S. Aitken, & S. Herbert (Eds.), *The handbook of qualitative research in human geography* (pp. xx–xx). Sage Publications.
 
-2. Sui, D., & DeLyser, D. (in press). Crossing the qualitative/quantitative chasm I: Hybrid geographies, the spatial turn, and volunteered geographic information (VGI). *Progress in Human Geography*. Advance online publication. https://doi.org/10.1177/0309132510392164
+2. Sui, D., & DeLyser, D. (2011). Crossing the qualitative/quantitative chasm I: Hybrid geographies, the spatial turn, and volunteered geographic information (VGI). *Progress in Human Geography*. Advance online publication. https://doi.org/10.1177/0309132510392164
 
 3. Knigge, L., & Cope, M. (2006). Grounded visualization: Integrating the analysis of qualitative and quantitative data through grounded theory and visualization. *Environment and Planning A*, *38*(11), 2021–2037. https://doi.org/10.1068/a37327
 
@@ -66,10 +60,7 @@ In this week, we will get familiar with the theoretical framework Humanistic GIS
 </details>
 <br/>
 
-
-### Week 4: CyberGIS
-
-The emergence of CyberGIS in early 2010 represents an important research direction in GIS that incorporates an evolving group of web technologies (e.g., cloud service, world wide web, etc.) to advance the capacity of GIS itself in dealing with complex geographical questions. In the same period, other topics like Cloud GIS *(Yang 2011)*, Spatial Infrastructures *(Wright 2011)* also appeared. This research direction has enabled GIS to deploy in a more distributed structure but not necessarily being located in a centralized place. In this way, GIS can utilize more computational resources over the Internet or the Cloud and process more complex and large-scale geographical algorithms. In this week, we will get us familiar with the concept of CyberGIS by reading Shaowen Wang's paper on "CyberGIS Framework," and then read another paper on Blockchain from *Bo Zhao and his co-author (2020)*. Blockchain is a representative technology for Web 3.0 - a new phase of web technologies. With a general background of the research direction around CyberGIS, its relevance to Web 3.0, we will build a better understanding of why this wave of cyberGIS appears in early 2010, its connection to the development of ICT (Information and communications technology) and possibility its future development. Moreover, we will read a classic paper from Andrew Feenberg to examine the democratic power of technology *(Feenberg 1992)*. By linking this paper with CyberGIS, we would discuss the intertwined democratic and autocratic power of CyberGIS and others alike.
+### Week 4: CyberGIS, Real-time GIS and Digital Twins
 
 **Hosts:** *TBD*
 
@@ -95,14 +86,9 @@ The emergence of CyberGIS in early 2010 represents an important research directi
 </details>
 <br/>
 
-
-### Week 5: Bot
-
-We will spend two weeks on the topic of bot. Bot is an human-made artifact that automates programmed functions. It has been frequently used to implement repetitive work in order to emancipate human labors. GIScholars have also used bots to collect geospatial services, retrieve social media feeds, and conduct other replaceable tasks. Since data collection is an important step for any (digital) humanities studies, we plan to spend the entire Week 3 to focus on the practical exercise in order to help each student to design a web crawler -- a typical bot that can harvest online data. We expect this web crawler can help each student to advance progress of their own research. In this week, each student is encouraged to read Wenwen Li and her co-authors' paper to see how to build a web map crawler, and how it can be used to collect geospatial data for polar research *(Li et al 2016)*. Next, in week 4, we will convene to discuss the code of ethics related to web crawling *(Thelwall et al 2006)*. This discussion may shed light on the use of bots for any (digital) humanities studies. Moreover, each student will also read another piece of classic paper on the politics of Artifacts *(Winner 1986)*. This paper will initiate the group discussion on the political and social implications of bots.
+### Week 5: Bots, Web Crawler and Autonomy
 
 **Hosts:** *TBD*
-
-**Keywords:** Autonomy, Robot and Web crawler
 
 **Practical Exercise 2:** [Data collection using web crawler](03_bot)
 
@@ -119,22 +105,13 @@ We will spend two weeks on the topic of bot. Bot is an human-made artifact that 
 
 5. Feenberg, A. (1992). Democratic [originally “Subversive”] rationalization: Technology, power, and democracy. *Inquiry*, *35*(3–4), 301–322. Reprinted with permission from Taylor & Francis. https://doi.org/10.1080/00201749208602297
 
-
-
-
-
 </details>
 
 <br/>
 
-
-### Week 6: Geospatial Data
-
-In this week, we will focus on geospatial data. Similar to other types of data, it comprises of 0s and 1s. However, it is special because of the way of data storage and processing. To better understand why "spatial data is special", each student, in this week's practical exercise, is expected to store the crawled data in the previous week to a file-based geospatial database "spatialite." Through this exercise, a lucid understanding about the structure, storage, and management of geospatial data will be built. Moreover, we also offer three papers on the geospatial data uncertainties. Each of these papers adopts a different epistemology to examine the uncertainty issue (*MacEachren et al 2005; Kwan 2012; Zhang et al 2020)*.
+### Week 6: Geospatial Data: Uncertainty, Location Spoofing and Post-truth GIS
 
 **Hosts:** *TBD*
-
-**Keywords:** Uncertainty, Post-truth and location spoofing
 
 **Practical Exercise 3:** [Spatial database management using SpatiaLite](04_data)
 
@@ -145,25 +122,19 @@ In this week, we will focus on geospatial data. Similar to other types of data, 
 
 2. Kwan, M. P. (2012). The uncertain geographic context problem. *Annals of the Association of American Geographers*, *102*(5), 958–968. https://doi.org/10.1080/00045608.2012.687349
 
-3. Zhang, S., & Zhao, B. (2021). Stand with #StandingRock: Envisioning an epistemological shift in understanding geospatial big data in the “post-truth” era. *Annals of the American Association of Geographers*, *111*(4), 1025–1045. https://doi.org/10.1080/24694452.2020.1812394
+3. Wilson, M. W. (2011). ‘Training the eye’: Formation of the geocoding subject. *Social & Cultural Geography*, *12*(4), 357–376. https://doi.org/10.1080/14649365.2011.588803
 
-4. Wilson, M. W. (2011). ‘Training the eye’: Formation of the geocoding subject. *Social & Cultural Geography*, *12*(4), 357–376. https://doi.org/10.1080/14649365.2011.588803
+4. Zhang, S., & Zhao, B. (2021). Stand with #StandingRock: Envisioning an epistemological shift in understanding geospatial big data in the “post-truth” era. *Annals of the American Association of Geographers*, *111*(4), 1025–1045. https://doi.org/10.1080/24694452.2020.1812394
 
-5. Harvey, F. (2009). Of boundary objects and boundaries: Local stabilization of the Polish cadastral infrastructure. *The Information Society*, *25*(5), 315–327. https://doi.org/10.1080/01972240903213057
-
+5. Warf, B. (2025). Post‐Truth GIS. Transactions in GIS, 29(1), e13275.
 
 </details>
 
 <br/>
 
-
-### Week 7: GeoVisualization
-
-GeoVisualization refers the visual representation and the representation strategies that illustrating geographical phenomenon using geospatial data. Through this week, we intend to present the development of geovisualization since the new millennium. It is recommended to read the paper from *MacEachren and his co-authors (2001)* that is a throughout literature review envisioning the topics in geovisualization to be explored. Knowles and her co-authors' paper represents a humanistic alternative to the conventional geovisualization *(2015)*, and emphasized the possible to visualize geographical phenomenon onto a non-euclidean space. Moreover, Roth's paper shared us an effective high-level guidance on how to craft a geo-narrative *(2020)*. In this week's practical exercise, each student is expected to create a online storymap.
+### Week 7: Critical Cartography, Participatory GIS and GeoNarrative
 
 **Hosts:** *TBD*
-
-**Keywords:** Hermeneutics, Inductive visualization, GeoNarrative
 
 **Practical Exercise 4:** [Creating A Participatory Mapping Project](05_viz)
 
@@ -180,21 +151,13 @@ GeoVisualization refers the visual representation and the representation strateg
 
 5. Knowles, A. K., Westerveld, L., & Strom, L. (2015). Inductive visualization: A humanistic alternative to GIS. *GeoHumanities*, *1*(2), 233–265. https://doi.org/10.1080/2373566X.2015.1101911
 
-
 </details>
 
 <br/>
 
-
-### Week 8: GeoAI
-
-GeoAI, namely Geospatial Artificial Intelligence, indicates the use and/or the rewire of Artificial Intelligence for geospatial analyses. In this week, we present a literature review on GeoAI and its multiple applicable areas *(Janowicz 2019)*. A promising area is place recognition, and a paper from *Bolei Zhou is offered (2017)*. Place, similar to space is an essential concept in geography. Moreover, another paper on deepfake geography is offer to share a more controversial use of GeoAI *(Zhao et al 2021)*.
-
-<!-- To understand this concept better, you can refer to John Agnew's paper on space and place *(Agnew 2011*). -->
+### Week 8: GeoAI, Deepfake Geography and the Politics of Visibility
 
 **Hosts:** *TBD*
-
-**Keywords:**  GeoAI, place recognition, and deepfake geography
 
 **Practical Exercise 5:** [Place context analysis using Natural Language Processing](06_ai)
 
@@ -216,16 +179,9 @@ GeoAI, namely Geospatial Artificial Intelligence, indicates the use and/or the r
 
 <br/>
 
-
-### Week 9: Virtual Reality
-
-<!-- **`The meeting is cancelled due to University Holiday. You are still required to read the paper and submit the weekly think pieces.`** -->
-
-Virtual Reality (VR) is a computer-generated environment with scenes and objects that appear to be real, making the user feel they are immersed in their surroundings. This environment is perceived through a device known as a Virtual Reality headset. In this week, we will focus on the idea of GIS embodiment. To begin with, we will review a paper that introduce the concept of postphenomenology and its relevance to geography *(Lea 2020)*. This paper will help us to revisit the Humanistic GIS framework, especially how VR as a embodiment GIS. Next, we will read another paper to examine how VR can evoke different senses of embodiment *(Kiteni et al 2012)*. These senses also relates to the sense of space and place, and this paper helps us to better envision the geographies that will be produced by VR. In the end, we will review another paper to review how VR is considered as sexist *(Munafo et al 2017)*. By this paper, we encourage students to reflect upon the design and development of any technology, especially how we can avoid the examined technology could be more equitable for minority groups.
+### Week 9: Virtual Reality, Neural Sensing and Embodiment
 
 **Hosts:** *TBD*
-
-**Keywords:** Embodiment, Virtual Reality, Point-cloud visualization
 
 **Practical Exercise 6:** [Creating Virtual Reality based on Structure-from-Motion](07_vr)
 
@@ -247,8 +203,7 @@ Virtual Reality (VR) is a computer-generated environment with scenes and objects
 
 ### Week 10: Summary, Presentation, and Writing Project
 
-Each student presents the writing project during the last class meeting (05/25). And the writing project is due by 06/7 5:00pm.
-
+Each student presents the writing project during the last class meeting (06/2). And the writing project is due by 06/6 5:00pm.
 
 ## :calendar: Weekly Schedule
 
