@@ -21,7 +21,6 @@ Open to graduate students and advanced undergraduates from diverse disciplinesâ€
 Each student is required to prepare a short **statement of intent** describing your final writing project. Each student is highly encouraged to plan this writing project to advance progress their own work, such as qualifying exam essay, draft of journal article, side project, etc. Please send the statement of intent to the instructor via Email zhaobo@uw.edu by **`04/04`**. In the meantime, the instructor will revise the syllabus according to the interests of the participants.
 
 ### Week 2: Foundation
-In this week, we will focus on the foundation of Critical GIS. We will read a few classic papers to understand the origin and evolution of Critical GIS. The first paper is from *Evelyn Sheppard (1995)*, which is one of the earliest papers that introduced the concept of Critical GIS. The second paper is from *Noel Schuurman (2000)*, which is a literature review on the critiques of GIS in the 1990s. The third paper is from *Sarah Elwood (2022)*, which is a recent review on the evolution of Critical GIS. The last two papers are from *Ash et al (2018)* and *Bo Zhao (2022)*, which are more recent papers that discuss the relevance of Critical GIS to digital geographies and humanistic GIS.
 
 <details>
   <summary><b>Readings</b></summary>
@@ -210,7 +209,7 @@ Each student presents the writing project during the last class meeting (06/2). 
 
 **:teacher: Seminar leadership:** You will take at least two turns facilitating our seminar exercise and discussion with a few of your classmates. You will work with one or more others (depending on the enrollment) on this, so you are not responsible for the entire session yourself. Please work together to prepare some activities and guiding questions that will inspire and structure our discussion of the material. The instructor is happy to help you to prepare the practical exercise walk-through before the meeting class.
 
-**:trophy: Practical exercise:** You need to get familiar with the practical exercise instruction before the class meeting in order to better reflect upon the theoretical concepts. We will walk through each practical exercise in class, and you will submit the deliverables to GitHub several days before the class meeting. **As a requirement, you need to submit two lab deliverables. One is Lab 1, and the other is a lab of your interest.**
+**:trophy: Practical exercise:** You need to get familiar with the practical exercise instruction before the class meeting in order to better reflect upon the theoretical concepts. We will walk through each practical exercise in class, and you will submit the deliverables to GitHub several days before the class meeting. **As a requirement, you need to submit two practical exercise deliverables. One is Practical Exercise 1, and the other is a lab of your interest.**
 
 **:woman_technologist: Participation in seminar discussion:** Complete all assigned readings and get familiar with the practical exercise instructions before class meetings, and participating in critical discussions of those readings.
 
