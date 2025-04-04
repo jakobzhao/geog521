@@ -25,15 +25,15 @@ Each student is required to prepare a short **statement of intent** describing y
 <details>
   <summary><b>Readings</b></summary>
 
-1. Sheppard, E. (1995). GIS and society: Towards a research agenda. *Cartography and Geographic Information Systems*, *22*(1), 5–16. https://doi.org/10.1559/152304095782540639  
+1. Sheppard, E. (1995). GIS and society: Towards a research agenda. *Cartography and Geographic Information Systems*, *22*(1), 5–16.  
 
-2. Schuurman, N. (2000). Trouble in the heartland: GIS and its critics in the 1990s. *Progress in Human Geography*, *24*(4), 569–590. https://doi.org/10.1191/030913200100189111  
+2. Schuurman, N. (2000). Trouble in the heartland: GIS and its critics in the 1990s. *Progress in Human Geography*, *24*(4), 569–590.  
 
-3. Elwood, S. (2022). Toward a fourth generation critical GIS: Extraordinary politics. *ACME: An International Journal for Critical Geographies*, *21*(4), 436–447. https://acme-journal.org/index.php/acme/article/view/2087  
+3. Elwood, S. (2022). Toward a fourth generation critical GIS: Extraordinary politics. *ACME: An International Journal for Critical Geographies*, *21*(4), 436–447.
 
-4. Ash, J., Kitchin, R., & Leszczynski, A. (2018). Digital turn, digital geographies? *Progress in Human Geography*, *42*(1), 25–43. https://doi.org/10.1177/0309132516664800  
+4. Ash, J., Kitchin, R., & Leszczynski, A. (2018). Digital turn, digital geographies? *Progress in Human Geography*, *42*(1), 25–43. 
 
-5. Zhao, B. (2022). Humanistic GIS: Towards a research agenda. *Annals of the American Association of Geographers*. Advance online publication. https://doi.org/10.1080/24694452.2022.2050111
+5. Zhao, B. (2022). Humanistic GIS: Towards a research agenda. *Annals of the American Association of Geographers*. Advance online publication. 
 
 </details>
 
@@ -44,13 +44,13 @@ Each student is required to prepare a short **statement of intent** describing y
 
 1. Elwood, S. (2009). Mixed methods: Thinking, doing, and asking in multiple ways. In D. DeLyser, M. Crang, L. McDowell, S. Aitken, & S. Herbert (Eds.), *The handbook of qualitative research in human geography* (pp. xx–xx). Sage Publications.
 
-2. Sui, D., & DeLyser, D. (2011). Crossing the qualitative/quantitative chasm I: Hybrid geographies, the spatial turn, and volunteered geographic information (VGI). *Progress in Human Geography*. Advance online publication. https://doi.org/10.1177/0309132510392164
+2. Sui, D., & DeLyser, D. (2011). Crossing the qualitative/quantitative chasm I: Hybrid geographies, the spatial turn, and volunteered geographic information (VGI). *Progress in Human Geography*. Advance online publication.
 
-3. Knigge, L., & Cope, M. (2006). Grounded visualization: Integrating the analysis of qualitative and quantitative data through grounded theory and visualization. *Environment and Planning A*, *38*(11), 2021–2037. https://doi.org/10.1068/a37327
+3. Knigge, L., & Cope, M. (2006). Grounded visualization: Integrating the analysis of qualitative and quantitative data through grounded theory and visualization. *Environment and Planning A*, *38*(11), 2021–2037.
 
-4. Tate, W., & Hogrebe, M. (2011). From visuals to vision: Using GIS to inform civic dialogue about African American males. *Race Ethnicity and Education*, *14*(1), 51–71. https://doi.org/10.1080/13613324.2011.531982
+4. Tate, W., & Hogrebe, M. (2011). From visuals to vision: Using GIS to inform civic dialogue about African American males. *Race Ethnicity and Education*, *14*(1), 51–71.
 
-5. Madden, M., & Ross, A. (2009). Genocide and GIScience: Integrating personal narratives and geographic information science to study human rights. *The Professional Geographer*, *61*(4), 508–526. https://doi.org/10.1080/00330120903163480
+5. Madden, M., & Ross, A. (2009). Genocide and GIScience: Integrating personal narratives and geographic information science to study human rights. *The Professional Geographer*, *61*(4), 508–526.
 
 </details>
 
@@ -63,17 +63,17 @@ Each student is required to prepare a short **statement of intent** describing y
 <details>
   <summary><b>Readings</b></summary>
 
-1. Wang, S. (2010). A CyberGIS framework for the synthesis of cyberinfrastructure, GIS, and spatial analysis. *Annals of the Association of American Geographers*, *100*(3), 535–557. https://doi.org/10.1080/00045601003791243
+1. Wang, S. (2010). A CyberGIS framework for the synthesis of cyberinfrastructure, GIS, and spatial analysis. *Annals of the Association of American Geographers*, *100*(3), 535–557.
 
 2.  Wenwen Li, Michael Batty & Michael F. Goodchild 2019. Realtime GIS for smart cities, *International Journal of Geographical Information Science*, 34(2), 311-324.
 
-3. Zhao, B., & Huang, X. (2020). Encrypted monument: The birth of crypto place on the blockchain. *Geoforum*, *116*, 149–152. https://doi.org/10.1016/j.geoforum.2020.08.020
+3. Zhao, B., & Huang, X. (2020). Encrypted monument: The birth of crypto place on the blockchain. *Geoforum*, *116*, 149–152.
 
-4. Batty, M. (2018). Digital twins. *Environment and Planning B: Urban Analytics and City Science*, *45*(5), 817–820. https://doi.org/10.1177/2399808318796416
+4. Batty, M. (2018). Digital twins. *Environment and Planning B: Urban Analytics and City Science*, *45*(5), 817–820.
 
 5.  Kitchin, R., 2014. The real-time city? Big data and smart urbanism. *GeoJournal*, 79(1), pp.1-14.
    
-6. Li, Z., & Ning, H. (2023). Autonomous GIS: The next-generation AI-powered GIS. *International Journal of Digital Earth*, *16*(2), 4668–4686. https://doi.org/10.1080/17538947.2023.217
+6. Li, Z., & Ning, H. (2023). Autonomous GIS: The next-generation AI-powered GIS. *International Journal of Digital Earth*, *16*(2), 4668–4686.
 
 </details>
 
@@ -87,15 +87,15 @@ Each student is required to prepare a short **statement of intent** describing y
 <details>
   <summary><b>Readings</b></summary>
 
-1. Li, W., Wang, S., & Bhatia, V. (2016). PolarHub: A large-scale web crawling engine for OGC service discovery in cyberinfrastructure. *Computers, Environment and Urban Systems*, *59*, 195–207. https://doi.org/10.1016/j.compenvurbsys.2016.06.002
+1. Li, W., Wang, S., & Bhatia, V. (2016). PolarHub: A large-scale web crawling engine for OGC service discovery in cyberinfrastructure. *Computers, Environment and Urban Systems*, *59*, 195–207.
 
-2. Thelwall, M., & Stuart, D. (2006). Web crawling ethics revisited: Cost, privacy, and denial of service. *Journal of the American Society for Information Science and Technology*, *57*(13), 1771–1779. https://doi.org/10.1002/asi.20436
+2. Thelwall, M., & Stuart, D. (2006). Web crawling ethics revisited: Cost, privacy, and denial of service. *Journal of the American Society for Information Science and Technology*, *57*(13), 1771–1779. 
 
 3. Winner, L. (1986). Do artifacts have politics? In *The whale and the reactor: A search for limits in an age of high technology* (pp. 19–39). University of Chicago Press.
 
-4. Peng, L., & Zhao, B. (2024). Navigating the ethical landscape behind ChatGPT. *Big Data & Society*, *11*(1), 20539517241237488. https://doi.org/10.1177/20539517241237488
+4. Peng, L., & Zhao, B. (2024). Navigating the ethical landscape behind ChatGPT. *Big Data & Society*, *11*(1), 20539517241237488.
 
-5. Feenberg, A. (1992). Democratic [originally “Subversive”] rationalization: Technology, power, and democracy. *Inquiry*, *35*(3–4), 301–322. Reprinted with permission from Taylor & Francis. https://doi.org/10.1080/00201749208602297
+5. Feenberg, A. (1992). Democratic [originally “Subversive”] rationalization: Technology, power, and democracy. *Inquiry*, *35*(3–4), 301–322. Reprinted with permission from Taylor & Francis.
 
 </details>
 
@@ -108,13 +108,13 @@ Each student is required to prepare a short **statement of intent** describing y
 <details>
   <summary><b>Readings</b></summary>
 
-1. MacEachren, A. M., Robinson, A., Hopper, S., Gardner, S., Murray, R., Gahegan, M., & Hetzler, E. (2005). Visualizing geospatial information uncertainty: What we know and what we need to know. *Cartography and Geographic Information Science*, *32*(3), 139–160. https://doi.org/10.1559/1523040054738936
+1. MacEachren, A. M., Robinson, A., Hopper, S., Gardner, S., Murray, R., Gahegan, M., & Hetzler, E. (2005). Visualizing geospatial information uncertainty: What we know and what we need to know. *Cartography and Geographic Information Science*, *32*(3), 139–160.
 
-2. Kwan, M. P. (2012). The uncertain geographic context problem. *Annals of the Association of American Geographers*, *102*(5), 958–968. https://doi.org/10.1080/00045608.2012.687349
+2. Kwan, M. P. (2012). The uncertain geographic context problem. *Annals of the Association of American Geographers*, *102*(5), 958–968. 
 
-3. Wilson, M. W. (2011). ‘Training the eye’: Formation of the geocoding subject. *Social & Cultural Geography*, *12*(4), 357–376. https://doi.org/10.1080/14649365.2011.588803
+3. Wilson, M. W. (2011). ‘Training the eye’: Formation of the geocoding subject. *Social & Cultural Geography*, *12*(4), 357–376.
 
-4. Zhang, S., & Zhao, B. (2021). Stand with #StandingRock: Envisioning an epistemological shift in understanding geospatial big data in the “post-truth” era. *Annals of the American Association of Geographers*, *111*(4), 1025–1045. https://doi.org/10.1080/24694452.2020.1812394
+4. Zhang, S., & Zhao, B. (2021). Stand with #StandingRock: Envisioning an epistemological shift in understanding geospatial big data in the “post-truth” era. *Annals of the American Association of Geographers*, *111*(4), 1025–1045.
 
 5. Warf, B. (2025). Post‐Truth GIS. Transactions in GIS, 29(1), e13275.
 
@@ -129,15 +129,15 @@ Each student is required to prepare a short **statement of intent** describing y
 <details>
   <summary><b>Readings</b></summary>
 
-1. Crampton, J., & Krygier, J. (2005). An introduction to critical cartography. *ACME: An International Journal for Critical Geographies*, *4*(1), 11–33. https://acme-journal.org/index.php/acme/article/view/723
+1. Crampton, J., & Krygier, J. (2005). An introduction to critical cartography. *ACME: An International Journal for Critical Geographies*, *4*(1), 11–33.
 
-2. Dunn, C. (2007). Participatory GIS: A people’s GIS? *Progress in Human Geography*, *31*(5), 617–638. https://doi.org/10.1177/0309132507077083
+2. Dunn, C. (2007). Participatory GIS: A people’s GIS? *Progress in Human Geography*, *31*(5), 617–638.
 
-3. St. Martin, K. (2009). Toward a cartography of the commons: Constituting the political and economic possibilities of a place. *The Professional Geographer*, *61*(4), 493–507. https://doi.org/10.1080/00330120903143482
+3. St. Martin, K. (2009). Toward a cartography of the commons: Constituting the political and economic possibilities of a place. *The Professional Geographer*, *61*(4), 493–507.
 
-4. Crampton, J. (2009). Cartography: Performative, participatory, political. *Progress in Human Geography*, *33*(6), 840–848. https://doi.org/10.1177/0309132508105000
+4. Crampton, J. (2009). Cartography: Performative, participatory, political. *Progress in Human Geography*, *33*(6), 840–848.
 
-5. Knowles, A. K., Westerveld, L., & Strom, L. (2015). Inductive visualization: A humanistic alternative to GIS. *GeoHumanities*, *1*(2), 233–265. https://doi.org/10.1080/2373566X.2015.1101911
+5. Knowles, A. K., Westerveld, L., & Strom, L. (2015). Inductive visualization: A humanistic alternative to GIS. *GeoHumanities*, *1*(2), 233–265.
 
 </details>
 
@@ -150,15 +150,15 @@ Each student is required to prepare a short **statement of intent** describing y
 <details>
   <summary><b>Readings</b></summary>
 
-1. Janowicz, K., Gao, S., McKenzie, G., Hu, Y., & Bhaduri, B. (2019). GeoAI: Spatially explicit artificial intelligence techniques for geographic knowledge discovery and beyond. *International Journal of Geographical Information Science*, *34*(4), 625–636. https://doi.org/10.1080/13658816.2019.1684500
+1. Janowicz, K., Gao, S., McKenzie, G., Hu, Y., & Bhaduri, B. (2019). GeoAI: Spatially explicit artificial intelligence techniques for geographic knowledge discovery and beyond. *International Journal of Geographical Information Science*, *34*(4), 625–636.
 
-2. Janowicz, K., Sieber, R., & Crampton, J. (2022). GeoAI, counter-AI, and human geography: A conversation. *Dialogues in Human Geography*, *12*(3), 446–458. https://doi.org/10.1177/20438206221122251
+2. Janowicz, K., Sieber, R., & Crampton, J. (2022). GeoAI, counter-AI, and human geography: A conversation. *Dialogues in Human Geography*, *12*(3), 446–458.
 
-3. Zhao, B., Zhang, S., Xu, C., Sun, Y., & Deng, C. (2021). Deep fake geography? When geospatial data encounters AI. *Cartography and Geographic Information Science*, *48*(4), 338–352. https://doi.org/10.1080/15230406.2021.1910075
+3. Zhao, B., Zhang, S., Xu, C., Sun, Y., & Deng, C. (2021). Deep fake geography? When geospatial data encounters AI. *Cartography and Geographic Information Science*, *48*(4), 338–352. 
 
-4. Li, W., Arundel, S., Gao, S., Goodchild, M., Hu, Y., Wang, S., & Zipf, A. (2024). GeoAI for science and the science of GeoAI. *Journal of Spatial Information Science*, *29*, 1–17. https://doi.org/10.5311/JOSIS.2024.29.813
+4. Li, W., Arundel, S., Gao, S., Goodchild, M., Hu, Y., Wang, S., & Zipf, A. (2024). GeoAI for science and the science of GeoAI. *Journal of Spatial Information Science*, *29*, 1–17.
 
-5. Gillespie, T. (2024). Generative AI and the politics of visibility. *Big Data & Society*, *11*(2), 20539517241252131. https://doi.org/10.1177/20539517241252131
+5. Gillespie, T. (2024). Generative AI and the politics of visibility. *Big Data & Society*, *11*(2), 20539517241252131.
 
 </details>
 
@@ -171,14 +171,13 @@ Each student is required to prepare a short **statement of intent** describing y
 <details>
   <summary><b>Readings</b></summary>
 
-1. Kilteni, K., Groten, R., & Slater, M. (2012). The sense of embodiment in virtual reality. *Presence: Teleoperators and Virtual Environments*, *21*(4), 373–387. https://doi.org/10.1162/PRES_a_00124
+1. Kilteni, K., Groten, R., & Slater, M. (2012). The sense of embodiment in virtual reality. *Presence: Teleoperators and Virtual Environments*, *21*(4), 373–387.
 
-2. Munafo, J., Diedrick, M., & Stoffregen, T. A. (2017). The virtual reality head-mounted display Oculus Rift induces motion sickness and is sexist in its effects. *Experimental Brain Research*, *235*(3), 889–901. https://doi.org/10.1007/s00221-016-4846-7
+2. Munafo, J., Diedrick, M., & Stoffregen, T. A. (2017). The virtual reality head-mounted display Oculus Rift induces motion sickness and is sexist in its effects. *Experimental Brain Research*, *235*(3), 889–901.
 
-3. Zhao, B., Feng, J., Sun, Y., Chang, X., & Shaw, S. L. (2024). Neural sensing: Toward a new approach to understanding emotional responses to place. *Transactions in GIS*, *28*(7), 2463–2475. https://doi.org/10.1111/tgis.13148
+3. Zhao, B., Feng, J., Sun, Y., Chang, X., & Shaw, S. L. (2024). Neural sensing: Toward a new approach to understanding emotional responses to place. *Transactions in GIS*, *28*(7), 2463–2475.
 
-4. Pykett, J. (2018). Geography and neuroscience: Critical engagements with geography's “neural turn”. *Transactions of the Institute of British Geographers*, *43*(2), 154–169. https://doi.org/10.1111/tran.12193
-
+4. Pykett, J. (2018). Geography and neuroscience: Critical engagements with geography's “neural turn”. *Transactions of the Institute of British Geographers*, *43*(2), 154–169. 
 </details>
 
 ### Week 10: Summary, Presentation, and Writing Project
