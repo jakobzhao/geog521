@@ -20,7 +20,7 @@ Open to graduate students and advanced undergraduates from diverse disciplinesâ€
 
 Each student is required to prepare a short **statement of intent** describing your final writing project. Each student is highly encouraged to plan this writing project to advance progress their own work, such as qualifying exam essay, draft of journal article, side project, etc. Please send the statement of intent to the instructor via Email zhaobo@uw.edu by **`04/04`**. In the meantime, the instructor will revise the syllabus according to the interests of the participants.
 
-### Week 2: Foundation, Origin, and Evolution
+### Week 2: Foundation
 In this week, we will focus on the foundation of Critical GIS. We will read a few classic papers to understand the origin and evolution of Critical GIS. The first paper is from *Evelyn Sheppard (1995)*, which is one of the earliest papers that introduced the concept of Critical GIS. The second paper is from *Noel Schuurman (2000)*, which is a literature review on the critiques of GIS in the 1990s. The third paper is from *Sarah Elwood (2022)*, which is a recent review on the evolution of Critical GIS. The last two papers are from *Ash et al (2018)* and *Bo Zhao (2022)*, which are more recent papers that discuss the relevance of Critical GIS to digital geographies and humanistic GIS.
 
 <details>
@@ -37,8 +37,6 @@ In this week, we will focus on the foundation of Critical GIS. We will read a fe
 5. Zhao, B. (2022). Humanistic GIS: Towards a research agenda. *Annals of the American Association of Geographers*. Advance online publication. https://doi.org/10.1080/24694452.2022.2050111
 
 </details>
-<br/>
-
 
 ### Week 3: Methods and Practices
 
@@ -56,9 +54,8 @@ In this week, we will focus on the foundation of Critical GIS. We will read a fe
 5. Madden, M., & Ross, A. (2009). Genocide and GIScience: Integrating personal narratives and geographic information science to study human rights. *The Professional Geographer*, *61*(4), 508â€“526. https://doi.org/10.1080/00330120903163480
 
 </details>
-<br/>
 
-### Week 4: CyberGIS, Real-time GIS and Digital Twins
+### Week 4: GIS Models
 
 **Hosts:** *TBD*
 
@@ -82,7 +79,7 @@ In this week, we will focus on the foundation of Critical GIS. We will read a fe
 </details>
 
 
-### Week 5: Bots, Web Crawler and Autonomy
+### Week 5: Bots
 
 **Hosts:** *TBD*
 
@@ -103,9 +100,7 @@ In this week, we will focus on the foundation of Critical GIS. We will read a fe
 
 </details>
 
-<br/>
-
-### Week 6: Geospatial Data: Uncertainty, Location Spoofing and Post-truth GIS
+### Week 6: Data
 
 **Hosts:** *TBD*
 
@@ -126,9 +121,7 @@ In this week, we will focus on the foundation of Critical GIS. We will read a fe
 
 </details>
 
-<br/>
-
-### Week 7: Critical Cartography, Participatory GIS and GeoNarrative
+### Week 7: Mapping
 
 **Hosts:** *TBD*
 
@@ -151,7 +144,7 @@ In this week, we will focus on the foundation of Critical GIS. We will read a fe
 
 <br/>
 
-### Week 8: GeoAI, Deepfake Geography and the Politics of Visibility
+### Week 8: GeoAI
 
 **Hosts:** *TBD*
 
@@ -175,7 +168,7 @@ In this week, we will focus on the foundation of Critical GIS. We will read a fe
 
 <br/>
 
-### Week 9: Virtual Reality, Neural Sensing and Embodiment
+### Week 9: Virtual Reality
 
 **Hosts:** *TBD*
 
