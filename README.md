@@ -10,10 +10,9 @@ Students will engage in mixed-methods research, integrating qualitative and quan
 
 Open to graduate students and advanced undergraduates from diverse disciplines—including geography, data science, urban planning, China studies, environmental studies, and digital humanities. No prior technical experience is required; support will be provided throughout the course.
 
-
 ## :calendar: Weekly Schedule
 
-<!-- - Visit the reading material of each week from [**a shared folder at UW Google Drive**](https://drive.google.com/drive/u/1/folders/1F1rVljPvChxc5DlJK3dzCuXXW34vvMIv). -->
+- Visit the reading material of each week from [**a shared folder at UW Google Drive**](https://drive.google.com/drive/folders/1cj2rCIjkm1tr1antD30uJoM7Yp6WTKum).
 - Read all the papers of the week prior to the weekly meetings.
 
 ### Week 1: Preparation
@@ -27,13 +26,13 @@ Each student is required to prepare a short **statement of intent** describing y
 
 1. Sheppard, E. (1995). GIS and society: Towards a research agenda. *Cartography and Geographic Information Systems*, *22*(1), 5–16.  
 
-2. Schuurman, N. (2000). Trouble in the heartland: GIS and its critics in the 1990s. *Progress in Human Geography*, *24*(4), 569–590.  
+2. Schuurman, N. (2000). Trouble in the heartland: GIS and its critics in the 1990s. *Progress in Human Geography*, *24*(4), 569–590. 
 
 3. Elwood, S. (2022). Toward a fourth generation critical GIS: Extraordinary politics. *ACME: An International Journal for Critical Geographies*, *21*(4), 436–447.
 
-4. Ash, J., Kitchin, R., & Leszczynski, A. (2018). Digital turn, digital geographies? *Progress in Human Geography*, *42*(1), 25–43. 
+4. Font-Casaseca, N., & Rodó-Zárate, M. (2024). From the margins of Geographical Information Systems: Limitations, challenges, and proposals. Progress in Human Geography, 48(4), 421-436.
 
-5. Zhao, B. (2022). Humanistic GIS: Towards a research agenda. *Annals of the American Association of Geographers*. Advance online publication. 
+5. Bergmann, L., & Morrill, R. (2017). William Wheeler Bunge: Radical geographer (1928–2013). Annals of the American Association of Geographers, 108(1), 291-300.
 
 </details>
 
@@ -45,12 +44,12 @@ Each student is required to prepare a short **statement of intent** describing y
 1. Elwood, S. (2009). Mixed methods: Thinking, doing, and asking in multiple ways. In D. DeLyser, M. Crang, L. McDowell, S. Aitken, & S. Herbert (Eds.), *The handbook of qualitative research in human geography* (pp. xx–xx). Sage Publications.
 
 2. Sui, D., & DeLyser, D. (2011). Crossing the qualitative/quantitative chasm I: Hybrid geographies, the spatial turn, and volunteered geographic information (VGI). *Progress in Human Geography*. Advance online publication.
+   
+3. Tate, W., & Hogrebe, M. (2011). From visuals to vision: Using GIS to inform civic dialogue about African American males. *Race Ethnicity and Education*, *14*(1), 51–71.
 
-3. Knigge, L., & Cope, M. (2006). Grounded visualization: Integrating the analysis of qualitative and quantitative data through grounded theory and visualization. *Environment and Planning A*, *38*(11), 2021–2037.
+4. Knowles, A. K., Westerveld, L., & Strom, L. (2015). Inductive visualization: A humanistic alternative to GIS. *GeoHumanities*, *1*(2), 233–265.
 
-4. Tate, W., & Hogrebe, M. (2011). From visuals to vision: Using GIS to inform civic dialogue about African American males. *Race Ethnicity and Education*, *14*(1), 51–71.
-
-5. Madden, M., & Ross, A. (2009). Genocide and GIScience: Integrating personal narratives and geographic information science to study human rights. *The Professional Geographer*, *61*(4), 508–526.
+5. Zhao, B. (2022). Humanistic GIS: Towards a research agenda. *Annals of the American Association of Geographers*. Advance online publication.
 
 </details>
 
@@ -65,15 +64,15 @@ Each student is required to prepare a short **statement of intent** describing y
 
 1. Wang, S. (2010). A CyberGIS framework for the synthesis of cyberinfrastructure, GIS, and spatial analysis. *Annals of the Association of American Geographers*, *100*(3), 535–557.
 
-2.  Wenwen Li, Michael Batty & Michael F. Goodchild 2019. Realtime GIS for smart cities, *International Journal of Geographical Information Science*, 34(2), 311-324.
+2. Wenwen Li, Michael Batty & Michael F. Goodchild 2019. Realtime GIS for smart cities, *International Journal of Geographical Information Science*, 34(2), 311-324.
 
 3. Zhao, B., & Huang, X. (2020). Encrypted monument: The birth of crypto place on the blockchain. *Geoforum*, *116*, 149–152.
 
 4. Batty, M. (2018). Digital twins. *Environment and Planning B: Urban Analytics and City Science*, *45*(5), 817–820.
 
 5.  Kitchin, R., 2014. The real-time city? Big data and smart urbanism. *GeoJournal*, 79(1), pp.1-14.
-   
-6. Li, Z., & Ning, H. (2023). Autonomous GIS: The next-generation AI-powered GIS. *International Journal of Digital Earth*, *16*(2), 4668–4686.
+
+6. Mahmoudi, D., Thatcher, J., Imaoka, L. B., & O'Sullivan, D. (2024). From FOSS to profit: Digital spatial technologies and the mode of production. Digital Geography and Society, 7, 100101.
 
 </details>
 
@@ -95,7 +94,7 @@ Each student is required to prepare a short **statement of intent** describing y
 
 4. Peng, L., & Zhao, B. (2024). Navigating the ethical landscape behind ChatGPT. *Big Data & Society*, *11*(1), 20539517241237488.
 
-5. Feenberg, A. (1992). Democratic [originally “Subversive”] rationalization: Technology, power, and democracy. *Inquiry*, *35*(3–4), 301–322. Reprinted with permission from Taylor & Francis.
+5. He, L., Páez, A., & Liu, D. (2017). Built environment and violent crime: An environmental audit approach using Google Street View. Computers, Environment and Urban Systems, 66, 83-95.
 
 </details>
 
@@ -108,11 +107,11 @@ Each student is required to prepare a short **statement of intent** describing y
 <details>
   <summary><b>Readings</b></summary>
 
-1. MacEachren, A. M., Robinson, A., Hopper, S., Gardner, S., Murray, R., Gahegan, M., & Hetzler, E. (2005). Visualizing geospatial information uncertainty: What we know and what we need to know. *Cartography and Geographic Information Science*, *32*(3), 139–160.
+1. Kwan, M. P. (2012). The uncertain geographic context problem. *Annals of the Association of American Geographers*, *102*(5), 958–968.
 
-2. Kwan, M. P. (2012). The uncertain geographic context problem. *Annals of the Association of American Geographers*, *102*(5), 958–968. 
-
-3. Wilson, M. W. (2011). ‘Training the eye’: Formation of the geocoding subject. *Social & Cultural Geography*, *12*(4), 357–376.
+2. Wilson, M. W. (2011). ‘Training the eye’: Formation of the geocoding subject. *Social & Cultural Geography*, *12*(4), 357–376.
+   
+3. Bennett, M. M., Chen, J. K., Alvarez Leon, L. F., & Gleason, C. J. (2022). The politics of pixels: A review and agenda for critical remote sensing. Progress in Human Geography, 46(3), 729-752.
 
 4. Zhang, S., & Zhao, B. (2021). Stand with #StandingRock: Envisioning an epistemological shift in understanding geospatial big data in the “post-truth” era. *Annals of the American Association of Geographers*, *111*(4), 1025–1045.
 
@@ -135,9 +134,9 @@ Each student is required to prepare a short **statement of intent** describing y
 
 3. St. Martin, K. (2009). Toward a cartography of the commons: Constituting the political and economic possibilities of a place. *The Professional Geographer*, *61*(4), 493–507.
 
-4. Crampton, J. (2009). Cartography: Performative, participatory, political. *Progress in Human Geography*, *33*(6), 840–848.
+4. Bergmann, L., & Lally, N. (2021). For geographical imagination systems. Annals of the American Association of Geographers, 111(1), 26-35.
 
-5. Knowles, A. K., Westerveld, L., & Strom, L. (2015). Inductive visualization: A humanistic alternative to GIS. *GeoHumanities*, *1*(2), 233–265.
+5. Lin, Y., & Zhao, B. (2024). Posthuman cartography? Rethinking artificial intelligence, cartographic practices, and reflexivity. Annals of the American Association of Geographers, 1-14.
 
 </details>
 
@@ -150,15 +149,17 @@ Each student is required to prepare a short **statement of intent** describing y
 <details>
   <summary><b>Readings</b></summary>
 
-1. Janowicz, K., Gao, S., McKenzie, G., Hu, Y., & Bhaduri, B. (2019). GeoAI: Spatially explicit artificial intelligence techniques for geographic knowledge discovery and beyond. *International Journal of Geographical Information Science*, *34*(4), 625–636.
+1. Li, W., Arundel, S., Gao, S., Goodchild, M., Hu, Y., Wang, S., & Zipf, A. (2024). GeoAI for science and the science of GeoAI. *Journal of Spatial Information Science*, *29*, 1–17.
 
 2. Janowicz, K., Sieber, R., & Crampton, J. (2022). GeoAI, counter-AI, and human geography: A conversation. *Dialogues in Human Geography*, *12*(3), 446–458.
 
 3. Zhao, B., Zhang, S., Xu, C., Sun, Y., & Deng, C. (2021). Deep fake geography? When geospatial data encounters AI. *Cartography and Geographic Information Science*, *48*(4), 338–352. 
 
-4. Li, W., Arundel, S., Gao, S., Goodchild, M., Hu, Y., Wang, S., & Zipf, A. (2024). GeoAI for science and the science of GeoAI. *Journal of Spatial Information Science*, *29*, 1–17.
-
-5. Gillespie, T. (2024). Generative AI and the politics of visibility. *Big Data & Society*, *11*(2), 20539517241252131.
+4. Gillespie, T. (2024). Generative AI and the politics of visibility. *Big Data & Society*, *11*(2), 20539517241252131.
+   
+5. Li, Z., & Ning, H. (2023). Autonomous GIS: The next-generation AI-powered GIS. *International Journal of Digital Earth*, *16*(2), 4668–4686.
+   
+6. Li, P., Yang, J., Islam, M. A., & Ren, S. (2023). Making ai less" thirsty": Uncovering and addressing the secret water footprint of ai models. arXiv preprint arXiv:2304.03271.
 
 </details>
 
