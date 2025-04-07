@@ -18,3 +18,10 @@
 - **Humanistic Geography**  
   A counter-movement to the Quantitative Revolution that arose in the 1970s. Humanistic geographers focus on lived experience, perception, emotion, and the symbolic meanings of place.  **Yi-Fu Tuan** is widely considered the founder of Humanistic Geography. His work explored how people emotionally and spiritually relate to place (*Topophilia*, *Space and Place*).  
   The movement's core aim is to bring **meaning, ethics, and subjectivity** back into geographic inquiry. It later inspired emotional geography, narrative cartography, and participatory GIS approaches.
+
+- **NCGIA (National Center for Geographic Information and Analysis)**  
+  The National Center for Geographic Information and Analysis was founded in 1988 as a collaborative research initiative between UC Santa Barbara, SUNY Buffalo, and the University of Maine, funded by the U.S. National Science Foundation. It played a pivotal role in legitimizing GIScience as an academic field and was instrumental in shaping early GIS research agendas. NCGIA provided intellectual infrastructure through its “research initiatives,” interdisciplinary workshops, and white papers. Importantly, it also served as the **institutional host of the 1993 Friday Harbor meeting**, marking the birth of Critical GIS as a named field.
+
+- **Initiative 19 (I-19): "The Social Implications of How People, Space, and Environment Are Represented in GIS"**  
+  I-19 was one of the most philosophically and politically charged of the NCGIA research initiatives. Launched in the early 1990s, it brought together scholars from GIScience and critical human geography to confront the social, political, and epistemological assumptions behind spatial representation in GIS. Key figures involved included **Michael Goodchild**, **Eric Sheppard**, **John Pickles**, and **Helen Couclelis**.  
+  The discussions from I-19 culminated in the **1993 Friday Harbor meeting**, where many foundational questions of Critical GIS were first collectively addressed, such as: Whose knowledge counts in GIS? How do technologies encode power? Can GIS represent non-Western, indigenous, or feminist spatialities?
