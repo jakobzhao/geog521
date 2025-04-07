@@ -12,8 +12,8 @@
 - **Quantitative Revolution**  
   A transformative movement in geography during the 1950s–1970s that aimed to bring scientific rigor to the discipline. It prioritized spatial modeling, empirical validation, and statistical methods, reshaping geography into a predictive, analytical field. While it advanced technical sophistication, it also marginalized qualitative and experiential perspectives, setting the stage for later reactions from critical and humanistic geographers.
 
-- **Friday Harbor Meeting**  
-  A landmark interdisciplinary gathering at the University of Washington’s Friday Harbor Laboratories, organized by the National Center for Geographic Information and Analysis (NCGIA). Key organizers and relevant scholars included **Tom Poiker**, **Michael Goodchild**, **John Pickles**, and **Nick Chrisman**. The meeting fostered dialogue—and tension—between GIScientists and critical human geographers. It catalyzed the emergence of *Critical GIS* by questioning who GIS serves, what forms of knowledge it encodes, and how power circulates through spatial technologies.
+- **1993 Friday Harbor Meeting**  
+  A landmark interdisciplinary gathering at the University of Washington’s Friday Harbor Laboratories, organized by the National Center for Geographic Information and Analysis (NCGIA) in November 1993. Key organizers and relevant scholars included **Tom Poiker**, **Michael Goodchild**, **John Pickles**, and **Nick Chrisman**. The meeting fostered dialogue—and tension—between GIScientists and critical human geographers. It catalyzed the emergence of *Critical GIS* by questioning who GIS serves, what forms of knowledge it encodes, and how power circulates through spatial technologies.
 
 - **Humanistic Geography**  
   A counter-movement to the Quantitative Revolution that arose in the 1970s. Humanistic geographers focus on lived experience, perception, emotion, and the symbolic meanings of place.  **Yi-Fu Tuan** is widely considered the founder of Humanistic Geography. His work explored how people emotionally and spiritually relate to place (*Topophilia*, *Space and Place*).  
