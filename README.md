@@ -14,6 +14,7 @@ Open to graduate students and advanced undergraduates from diverse disciplinesâ€
 
 - Visit the reading material of each week from [**a shared folder at UW Google Drive**](https://drive.google.com/drive/folders/1cj2rCIjkm1tr1antD30uJoM7Yp6WTKum).
 - Read all the papers of the week prior to the weekly meetings.
+- Please refer to the key concepts related to Critical GIS as needed in the [cheatsheet](cheatsheet.md).
 
 ### Week 1: Preparation
 
