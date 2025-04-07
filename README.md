@@ -20,7 +20,9 @@ Open to graduate students and advanced undergraduates from diverse disciplines�
 
 Each student is required to prepare a short **statement of intent** describing your final writing project. Each student is highly encouraged to plan this writing project to advance progress their own work, such as qualifying exam essay, draft of journal article, side project, etc. Please send the statement of intent to the instructor via Email zhaobo@uw.edu by **`04/04`**. In the meantime, the instructor will revise the syllabus according to the interests of the participants.
 
-### Week 2: Foundation
+### Week 2: Foundations of Critical GIS – Origins, Evolutions, and Futures
+
+This week introduces students to the foundations of Critical GIS, a field that interrogates the social, political, and epistemological dimensions of geographic information systems. Eric Sheppard’s 1995 article is widely regarded as a foundational text marking the intellectual origin of Critical GIS, challenging the idea of GIS as a neutral tool and emphasizing its embeddedness in power and knowledge structures. Schuurman’s 2000 paper provides a historical perspective on the field’s evolution, outlining three major phases of development and highlighting the complex relationship between critics and practitioners. Elwood (2022) shows that Critical GIS has reached a mature, institutionalized stage, calling for “extraordinary politics” that embrace intersectionality and care. Font-Casaseca and Rodó-Zárate (2024) extend this trajectory with a forward-looking agenda, urging Critical GIS to address emerging forms of exclusion and technological appropriation. Finally, Bergmann’s (2017) biography of William Bunge reminds us that many core concerns of Critical GIS—social justice, participatory mapping, and radical critique—were present from the beginning of GIS itself. Bunge, once a key figure in the Quantitative Revolution, became one of its most vocal critics, showing that Critical GIS is not a reaction from the outside, but an integral and ongoing force within GIS’s own intellectual history.
 
 <details>
   <summary><b>Readings</b></summary>
