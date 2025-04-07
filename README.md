@@ -1,6 +1,6 @@
-# GEOG521 Research Seminar: Critical GIS <img src="res/flyer.png" align="right" tooltip="The cover image was made using a generative phrase 'a digital earth that is also a human brain.' by chatgpt on April 6, 2025." width="35%" target="_blank" />
+# GEOG521 Research Seminar: Critical GIS 
 
-- **Instructor:** Bo Zhao, zhaobo@uw.edu
+- **Instructor:** Bo Zhao, zhaobo@uw.edu <img src="res/flyer.png" align="right" tooltip="The cover image was made using a generative phrase 'a digital earth that is also a human brain.' by chatgpt on April 6, 2025." width="35%" target="_blank" />
 - **Meetings:**  Mondays 2:30 to 5:20 PM at SMI 409
 - **Office Hour**: By appointment or request a zoom meeting via https://t.ly/kpj_t
 
