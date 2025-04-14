@@ -60,7 +60,7 @@ This week introduces students to the foundations of Critical GIS, a field that i
 
 **Hosts:** *TBD*
 
-**Practical Exercise 1:** [Cloud-based project management using GitHub](02_cyber)
+**Practical Exercise 1:** [Cloud-based project management using GitHub](https://github.com/jakobzhao/project-management)
 
 <details>
   <summary><b>Readings</b></summary>
