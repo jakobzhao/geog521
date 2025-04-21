@@ -1,28 +1,28 @@
-# GEOG521 Research Seminar: Critical GIS 
+# GEOG521 Research Seminar: Critical GIS
 
-- **Instructor:** Bo Zhao, zhaobo@uw.edu <img src="res/flyer.png" align="right" tooltip="The cover image was made using a generative phrase 'a digital earth that is also a human brain.' by chatgpt on April 6, 2025." width="35%" target="_blank" />
+- **Instructor:** Bo Zhao, zhaobo@uw.edu
 - **Meetings:**  Mondays 2:30 to 5:20 PM at SMI 409
-- **Office Hour**: Making an Appointment via https://t.ly/kpj_t
+- **Office Hour**: By appointment or request a zoom meeting via https://t.ly/kpj_t
 
-This research seminar explores Critical GIS, a field that interrogates the social, political, and epistemological dimensions of geospatial technologies. Through theoretical debates and hands-on projects, students will examine how GIS functions both as a tool of control and as a medium for resistance, empowerment, and social justice. Topics include participatory mapping, counter-cartography, surveillance, digital inequality, and the politics of spatial data. The course also introduces emerging tools such as GeoAI, machine learning for spatial analysis, and geospatial storytelling.
+<img src="res/cover-2023-2.png" align="right" tooltip="The cover image was made using a generative phrase 'a digital earth that is also a human brain.' by MidJourney on April 3, 2023." width="35%" target="_blank" />  This research seminar explores Critical GIS, a field that interrogates the social, political, and epistemological dimensions of geospatial technologies. Through theoretical debates and hands-on projects, students will examine how GIS functions both as a tool of control and as a medium for resistance, empowerment, and social justice. Topics include participatory mapping, counter-cartography, surveillance, digital inequality, and the politics of spatial data. The course also introduces emerging tools such as GeoAI, machine learning for spatial analysis, and geospatial storytelling.
 
 Students will engage in mixed-methods research, integrating qualitative and quantitative approaches to critically assess how GIS is used across domains such as urban planning, environmental justice, digital activism, and spatial humanities. By the end of the seminar, students will gain both critical perspectives and technical skills, understanding GIS not just as software, but as a contested space of knowledge production.
 
 Open to graduate students and advanced undergraduates from diverse disciplines—including geography, data science, urban planning, China studies, environmental studies, and digital humanities. No prior technical experience is required; support will be provided throughout the course.
 
+## 📣 Announcements
+- **04/20**: Since everyone has selected the week they’ll be leading the discussion, I’ve decided to remove the host names to help protect your privacy.
+
 ## :calendar: Weekly Schedule
 
 - Visit the reading material of each week from [**a shared folder at UW Google Drive**](https://drive.google.com/drive/folders/1cj2rCIjkm1tr1antD30uJoM7Yp6WTKum).
 - Read all the papers of the week prior to the weekly meetings.
-- Please refer to the key concepts related to Critical GIS as needed in the [cheatsheet](cheatsheet.md).
 
 ### Week 1: Preparation
 
 Each student is required to prepare a short **statement of intent** describing your final writing project. Each student is highly encouraged to plan this writing project to advance progress their own work, such as qualifying exam essay, draft of journal article, side project, etc. Please send the statement of intent to the instructor via Email zhaobo@uw.edu by **`04/04`**. In the meantime, the instructor will revise the syllabus according to the interests of the participants.
 
-### Week 2: Foundations of Critical GIS – Origins, Evolutions, and Futures
-
-This week introduces students to the foundations of Critical GIS, a field that interrogates the social, political, and epistemological dimensions of geographic information systems. Eric Sheppard’s 1995 article is widely regarded as a foundational text marking the intellectual origin of Critical GIS, challenging the idea of GIS as a neutral tool and emphasizing its embeddedness in power and knowledge structures. Schuurman’s 2000 paper provides a historical perspective on the field’s evolution, outlining three major phases of development and highlighting the complex relationship between critics and practitioners. Elwood (2022) shows that Critical GIS has reached a mature, institutionalized stage, calling for “extraordinary politics” that embrace intersectionality and care. Font-Casaseca and Rodó-Zárate (2024) extend this trajectory with a forward-looking agenda, urging Critical GIS to address emerging forms of exclusion and technological appropriation. Finally, Bergmann’s (2017) biography of William Bunge reminds us that many core concerns of Critical GIS—social justice, participatory mapping, and radical critique—were present from the beginning of GIS itself. Bunge, once a key figure in the Quantitative Revolution, became one of its most vocal critics, showing that Critical GIS is not a reaction from the outside, but an integral and ongoing force within GIS’s own intellectual history.
+### Week 2: Foundation
 
 <details>
   <summary><b>Readings</b></summary>
@@ -41,8 +41,6 @@ This week introduces students to the foundations of Critical GIS, a field that i
 
 ### Week 3: Methods and Practices
 
-This week centers on methods and practices in Critical GIS. All five readings begin from a shared critique of GIS as a quantitative, neutral tool—a view that has long shaped its development and application in scientific, policy, and technical domains. Rather than accepting this instrumental framing, each author offers a distinct strategy for rethinking GIS in response to its limitations. Elwood (2010) critiques the exclusivity of conventional GIS practices and proposes mixed methods that foreground local knowledge, feminist epistemologies, and participatory engagement. Sui and DeLyser (2011) advance the idea of hybrid geographies, calling for methodological openness that transcends the qualitative–quantitative divide. Tate and Hogrebe (2011) employ GIS to visualize educational inequities and promote civic dialogue, demonstrating how spatial tools can support justice-oriented practice. Knowles, Westerveld, and Strom (2015) challenge GIS’s capacity to represent lived and affective experience, offering inductive visualization as a humanistic alternative. Zhao (2022) repositions GIS not as a tool, but as a relational mediator of embodied experience, and constructs a typology of GIS–human–place relations grounded in phenomenology and postphenomenology. Collectively, these works move GIS beyond its conventional framing as a technical instrument. They reposition it as a methodological and epistemological project—one that not only reflects different ways of knowing space, but also shapes what kinds of spatial knowledge, relationships, and practices become possible. The strategies range from participation (Elwood), to integration (Sui & DeLyser), action-oriented use (Tate & Hogrebe), alternative representation (Knowles et al.), and philosophical reframing (Zhao). These responses reflect deeper epistemological shifts: some authors seek to open or expand GIS; others repurpose or replace it. Together, they invite us to reflect critically on how GIS enacts worlds, rather than simply represents them.
-
 <details>
   <summary><b>Readings</b></summary>
 
@@ -60,9 +58,7 @@ This week centers on methods and practices in Critical GIS. All five readings be
 
 ### Week 4: System
 
-**Hosts:** *TBD*
-
-**Practical Exercise 1:** [Cloud-based project management using GitHub](https://github.com/jakobzhao/project-management)
+**Practical Exercise 1:** [Cloud-based project management using GitHub](02_cyber)
 
 <details>
   <summary><b>Readings</b></summary>
@@ -81,10 +77,7 @@ This week centers on methods and practices in Critical GIS. All five readings be
 
 </details>
 
-
 ### Week 5: Bot
-
-**Hosts:** *TBD*
 
 **Practical Exercise 2:** [Data collection using web crawler](03_bot)
 
@@ -105,8 +98,6 @@ This week centers on methods and practices in Critical GIS. All five readings be
 
 ### Week 6: Data
 
-**Hosts:** *TBD*
-
 **Practical Exercise 3:** [Spatial database management using SpatiaLite](04_data)
 
 <details>
@@ -126,8 +117,6 @@ This week centers on methods and practices in Critical GIS. All five readings be
 
 ### Week 7: Mapping
 
-**Hosts:** *TBD*
-
 **Practical Exercise 4:** [Creating A Participatory Mapping Project](05_viz)
 
 <details>
@@ -146,8 +135,6 @@ This week centers on methods and practices in Critical GIS. All five readings be
 </details>
 
 ### Week 8: GeoAI
-
-**Hosts:** *TBD*
 
 **Practical Exercise 5:** [Place context analysis using Natural Language Processing](06_ai)
 
@@ -169,8 +156,6 @@ This week centers on methods and practices in Critical GIS. All five readings be
 </details>
 
 ### Week 9: Virtual Reality
-
-**Hosts:** *TBD*
 
 **Practical Exercise 6:** [Creating Virtual Reality based on Structure-from-Motion](07_vr)
 
