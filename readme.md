@@ -62,7 +62,9 @@ This week centers on methods and practices in Critical GIS. All five readings be
 
 ### Week 4: System
 
-**Practical Exercise 1:** [Cloud-based project management using GitHub](02_cyber)
+This week centers on GIS as systems—assemblages shaped by infrastructures, institutions, and relations of power. The readings explore how its evolving forms intersect with governance, labor, and capital. Wang (2010) presents CyberGIS as a distributed computing platform for spatial analysis. Kitchin (2014) critiques smart cities as technocratic systems that automate urban governance through real-time data. Batty (2018) examines digital twins—systems that operate in parallel with cities, collapsing the boundary between model and reality. Zhao and Huang (2020) explore blockchain as a decentralized spatial system that enables resistance to state control, while Mahmoudi et al. (2024) show how open-source infrastructures can be absorbed into capitalist production, turning collaborative labor into “dead labor.” Together, these readings trace the evolution of GIS from technical platforms to political infrastructures, highlighting tensions between openness and enclosure, autonomy and control, resistance and reproduction.
+
+**Practical Exercise 1:** [Cloud-based project management using GitHub](https://github.com/jakobzhao/project-management)
 
 <details>
   <summary><b>Readings</b></summary>
