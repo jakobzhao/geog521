@@ -85,7 +85,7 @@ This week centers on GIS as systems—assemblages shaped by infrastructures, ins
 
 ### Week 5: Bot
 
-**Practical Exercise 2:** [Data collection using web crawler](03_bot)
+**Practical Exercise 2:** [Data collection using web crawler](https://github.com/jakobzhao/web-crawler)
 
 <details>
   <summary><b>Readings</b></summary>
