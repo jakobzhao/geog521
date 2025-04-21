@@ -123,7 +123,7 @@ This week centers on GIS as systems—assemblages shaped by infrastructures, ins
 
 ### Week 7: Mapping
 
-**Practical Exercise 4:** [Creating A Participatory Mapping Project](05_viz)
+**Practical Exercise 4:** [Creating A Participatory Mapping Project](https://github.com/jakobzhao/participatory-mapping)
 
 <details>
   <summary><b>Readings</b></summary>
