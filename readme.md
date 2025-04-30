@@ -106,7 +106,7 @@ In contemporary GIScience, bots—particularly web crawlers—have become crucia
 
 ### Week 6: Data
 
-**Practical Exercise 3:** [Spatial database management using SpatiaLite](04_data)
+**Practical Exercise 3:** [Geospatial Data Classification](https://github.com/jakobzhao/data-classification) 
 
 <details>
   <summary><b>Readings</b></summary>
