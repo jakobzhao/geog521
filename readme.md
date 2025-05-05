@@ -106,6 +106,8 @@ In contemporary GIScience, bots—particularly web crawlers—have become crucia
 
 ### Week 6: Data
 
+This week, we examine geospatial data as a socially, politically, and technically constructed artifact that passes through a full lifecycle—from intention and modeling to circulation and erasure. Zhang & Zhao et al. (2020) highlight how location spoofing during #StandingRock challenges normative ideas of data authenticity, reframing “fake” data as strategic resistance. Wilson (2011) reveals how participatory mapping practices discipline users into institutional ways of seeing, while Kwan (2012) critiques the spatial assumptions underlying common analytical units. Bennett et al. (2022) interrogate satellite imagery as a visual regime shaped by the politics of resolution, and Warf (2025) explores trust and manipulation in the age of deepfake geographies. Together, these readings prompt us to ask: What counts as data, who decides, and what do we risk ignoring in the name of objectivity?
+
 **Practical Exercise 3:** [Geospatial Data Classification](https://github.com/jakobzhao/data-classification) 
 
 <details>
