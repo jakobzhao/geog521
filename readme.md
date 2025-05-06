@@ -165,7 +165,7 @@ This week, we examine geospatial data as a socially, politically, and technicall
 
 </details>
 
-### Week 9: Virtual Reality
+### Week 9: Virtual Reality (*Cancelled due to a conflict with the university holiday.*)
 
 **Practical Exercise 6:** [Creating Virtual Reality based on Structure-from-Motion](07_vr)
 
