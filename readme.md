@@ -146,7 +146,7 @@ This week, we examine geospatial data as a socially, politically, and technicall
 
 ### Week 8: GeoAI
 
-**Practical Exercise 5:** [Place context analysis using Natural Language Processing](06_ai)
+**Practical Exercise 5:** [Place context analysis using Natural Language Processing](https://github.com/jakobzhao/llm-place/)
 
 <details>
   <summary><b>Readings</b></summary>
