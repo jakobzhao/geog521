@@ -146,6 +146,8 @@ This week, we examine geospatial data as a socially, politically, and technicall
 
 ### Week 8: GeoAI
 
+This week’s readings focused on the multiple perspectives surrounding GeoAI—its capabilities, critical reflections, and environmental implications. Janowicz et al. (2022) opened up a conversation about the tensions between GeoAI and “counter-AI,” highlighting both its promises and its risks. Li Wenwen et al. (2024) offered a systematic framework for the science of GeoAI, emphasizing four key pillars: predictability, interpretability, reproducibility, and social responsibility. Li Zhenglong et al. (2023) took a more applied approach by introducing a prototype of “autonomous GIS” (LLM-Geo), showcasing the potential of automating spatial analysis through AI. Meanwhile, Gillespie (2024) brought in a cultural and representational critique, warning that generative AI often defaults to normative identities and narratives, reproducing systemic biases in visibility. Zhao et al. (2021) introduced the concept of “deep fake geography,” urging us to remain critically aware of how AI can manipulate geospatial data and affect public understanding of space and place. Finally, Li Pengfei et al. (2023) drew attention to the environmental costs of AI—specifically its hidden water footprint—emphasizing that sustainable AI must address not just carbon emissions but also freshwater usage.
+
 **Practical Exercise 5:** [Using LLM to Analyze Sense of Place and Make Storymaps](https://github.com/jakobzhao/llm-place/)
 
 <details>
