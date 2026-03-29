@@ -20,7 +20,7 @@ Open to graduate students and advanced undergraduates from diverse disciplinesâ€
 
 ### Week 1: Preparation
 
-Each student is required to prepare a short **statement of intent** describing your final writing project. Each student is highly encouraged to plan this writing project to advance progress their own work, such as qualifying exam essay, draft of journal article, side project, etc. Please send the statement of intent to the instructor via Email zhaobo@uw.edu by **`04/04`**. In the meantime, the instructor will revise the syllabus according to the interests of the participants.
+Each student is required to prepare a short **statement of intent** describing your final writing project. Each student is highly encouraged to plan this writing project to advance progress their own work, such as qualifying exam essay, draft of journal article, side project, etc. Please send the statement of intent to the instructor via Email zhaobo@uw.edu by **`04/05`**. In the meantime, the instructor will revise the syllabus according to the interests of the participants.
 
 ### Week 2: Foundation
 
