@@ -167,7 +167,7 @@ This week’s readings focused on the multiple perspectives surrounding GeoAI—
 
 </details>
 
-### Week 9: Virtual Reality (*Cancelled due to a conflict with the university holiday.*)
+### Week 9: Virtual Reality
 
 **Practical Exercise 6:** [Creating Virtual Reality based on Structure-from-Motion](07_vr)
 
