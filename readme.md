@@ -230,7 +230,7 @@ Please craft your think piece to the [**GitHub issues page**](https://github.com
 
 ## :heavy_check_mark: Grading
 
-Based on the above requirements - **40%** seminar participation, think pieces, and discussion leadership, **20%** practical exercise, **40%** writing project.
+Based on the above requirements - **40%** seminar participation, think pieces, and discussion leadership, **20%** practical exercise, **40%** writing project or a mapping project which the instructor has approved.
 
 ## :notebook_with_decorative_cover: Equity & Inclusivity
 
