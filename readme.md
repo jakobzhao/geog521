@@ -62,6 +62,8 @@ This week centers on methods and practices in Critical GIS. All five readings be
 
 ### Week 4: System
 
+#### Sechang
+
 This week centers on GIS as systems—assemblages shaped by infrastructures, institutions, and relations of power. The readings explore how its evolving forms intersect with governance, labor, and capital. Wang (2010) presents CyberGIS as a distributed computing platform for spatial analysis. Kitchin (2014) critiques smart cities as technocratic systems that automate urban governance through real-time data. Batty (2018) examines digital twins—systems that operate in parallel with cities, collapsing the boundary between model and reality. Zhao and Huang (2020) explore blockchain as a decentralized spatial system that enables resistance to state control, while Mahmoudi et al. (2024) show how open-source infrastructures can be absorbed into capitalist production, turning collaborative labor into “dead labor.” Together, these readings trace the evolution of GIS from technical platforms to political infrastructures, highlighting tensions between openness and enclosure, autonomy and control, resistance and reproduction.
 
 **Practical Exercise 1:** [Cloud-based project management using GitHub](https://github.com/jakobzhao/project-management)
@@ -85,6 +87,8 @@ This week centers on GIS as systems—assemblages shaped by infrastructures, ins
 
 ### Week 5: Bot
 
+#### Tongwei
+
 In contemporary GIScience, bots—particularly web crawlers—have become crucial tools for acquiring and discovering large-scale geospatial data. Our learning this week began with the technical foundations laid out by Li et al. (2016), who developed PolarHub, a large-scale web crawling platform designed to discover geospatial services, demonstrating the efficiency and scalability of bots in data discovery. Following this, Thelwall (2006) addressed the ethical dimensions of using web crawlers, highlighting issues such as privacy violations and resource overuse, and reminding us that technical deployment must be accompanied by ethical responsibility. He et al. (2017) further illustrated the application of bot-like approaches in geographic research, using Google Street View for virtual environmental audits and revealing potential problems and biases in using automated data collection to study social spaces. On a broader level, Winner (1986) argued that technology itself, including bots, is inherently political, emphasizing that technological artifacts are not neutral but embedded within power structures.  Lastly, Peng and Zhao (2024) analyzed a more advanced type of bot—generative AI such as ChatGPT—demonstrating how it transforms human-machine interactions, influences human experiences, and intensifies global inequalities. Through this week’s Practical Exercise, by designing and running our own web crawlers, we not only deepened our understanding of the underlying logic of bots but also gained firsthand insight into their role, significance, and ethical implications in data collection and social analysis.
 
 **Practical Exercise 2:** [Data collection using web crawler](https://github.com/jakobzhao/web-crawler)
@@ -105,6 +109,8 @@ In contemporary GIScience, bots—particularly web crawlers—have become crucia
 </details>
 
 ### Week 6: Data
+
+#### Sechang
 
 This week, we examine geospatial data as a socially, politically, and technically constructed artifact that passes through a full lifecycle—from intention and modeling to circulation and erasure. Zhang & Zhao et al. (2020) highlight how location spoofing during #StandingRock challenges normative ideas of data authenticity, reframing “fake” data as strategic resistance. Wilson (2011) reveals how participatory mapping practices discipline users into institutional ways of seeing, while Kwan (2012) critiques the spatial assumptions underlying common analytical units. Bennett et al. (2022) interrogate satellite imagery as a visual regime shaped by the politics of resolution, and Warf (2025) explores trust and manipulation in the age of deepfake geographies. Together, these readings prompt us to ask: What counts as data, who decides, and what do we risk ignoring in the name of objectivity?
 
@@ -127,6 +133,8 @@ This week, we examine geospatial data as a socially, politically, and technicall
 
 ### Week 7: Mapping
 
+#### Chava
+
 **Practical Exercise 4:** [Creating A Participatory Mapping Project](https://github.com/jakobzhao/participatory-mapping)
 
 <details>
@@ -145,6 +153,8 @@ This week, we examine geospatial data as a socially, politically, and technicall
 </details>
 
 ### Week 8: GeoAI
+
+#### Tongwei
 
 This week’s readings focused on the multiple perspectives surrounding GeoAI—its capabilities, critical reflections, and environmental implications. Janowicz et al. (2022) opened up a conversation about the tensions between GeoAI and “counter-AI,” highlighting both its promises and its risks. Li Wenwen et al. (2024) offered a systematic framework for the science of GeoAI, emphasizing four key pillars: predictability, interpretability, reproducibility, and social responsibility. Li Zhenglong et al. (2023) took a more applied approach by introducing a prototype of “autonomous GIS” (LLM-Geo), showcasing the potential of automating spatial analysis through AI. Meanwhile, Gillespie (2024) brought in a cultural and representational critique, warning that generative AI often defaults to normative identities and narratives, reproducing systemic biases in visibility. Zhao et al. (2021) introduced the concept of “deep fake geography,” urging us to remain critically aware of how AI can manipulate geospatial data and affect public understanding of space and place. Finally, Li Pengfei et al. (2023) drew attention to the environmental costs of AI—specifically its hidden water footprint—emphasizing that sustainable AI must address not just carbon emissions but also freshwater usage.
 
@@ -168,6 +178,8 @@ This week’s readings focused on the multiple perspectives surrounding GeoAI—
 </details>
 
 ### Week 9: Virtual Reality
+
+#### Chava
 
 **Practical Exercise 6:** [Creating Virtual Reality based on Structure-from-Motion](07_vr)
 
