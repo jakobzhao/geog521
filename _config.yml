@@ -1,0 +1,16 @@
+theme: jekyll-theme-cayman
+
+title: GEOG 521 · Critical GIS
+description: A graduate research seminar at the University of Washington — Spring 2026
+
+show_downloads: false
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-relative-links
+
+exclude:
+  - "*.log"
+  - Gemfile
+  - Gemfile.lock
+  - vendor
