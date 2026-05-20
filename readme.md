@@ -181,7 +181,7 @@ This week’s readings focused on the multiple perspectives surrounding GeoAI—
 
 #### Chava
 
-**Practical Exercise 6:** [Creating Virtual Reality based on Structure-from-Motion](07_vr)
+**Practical Exercise 6:** [Creating Virtual Reality based on Structure-from-Motion](https://github.com/jakobzhao/geog595/tree/master/07_vr)
 
 <details>
   <summary><b>Readings</b></summary>
