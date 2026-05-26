@@ -197,7 +197,7 @@ This week’s readings focused on the multiple perspectives surrounding GeoAI—
 
 ### Week 10: Summary, Presentation, and Writing Project
 
-Each student presents the writing project during the last class meeting (06/2). And the writing project is due by 06/6 5:00pm.
+Each student presents the writing project during the last class meeting (06/2). And the writing project is due by 06/9 5:00pm.
 
 ## :calendar: Weekly Schedule
 
